@@ -1,0 +1,9 @@
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\bin\Debug\ConsoleAppCI.exe.config
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\obj\Debug\ConsoleAppCI.Resources.resources
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\obj\Debug\ConsoleAppCI.vbproj.GenerateResource.Cache
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\bin\Debug\ConsoleAppCI.exe
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\bin\Debug\ConsoleAppCI.pdb
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\bin\Debug\ConsoleAppCI.xml
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\obj\Debug\ConsoleAppCI.exe
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\obj\Debug\ConsoleAppCI.xml
+E:\Development\TestCI\ConsoleAppCI\ConsoleAppCI\obj\Debug\ConsoleAppCI.pdb
