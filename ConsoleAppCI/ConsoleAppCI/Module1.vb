@@ -8,4 +8,9 @@
     Sub ValidateUser()
         Console.WriteLine("New Module Added ValidateUser")
     End Sub
+
+    Sub Validate_User()
+        Console.WriteLine("New Module Added ValidateUser")
+    End Sub
+
 End Module
